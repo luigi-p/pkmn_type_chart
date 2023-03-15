@@ -12,4 +12,4 @@ and it displays the following data:
 - if the given types have 2x weaknesses
 - if the given types have 4x resistence
 - if the given types have 2x resistence
-- if the given types can't be damaged by other types
+- if the given types have immunities
